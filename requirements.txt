@@ -1,0 +1,4 @@
+geoip2==2.9.0
+psycopg2-binary==2.9.3
+boto3==1.16.5
+git+https://github.com/python-monero/py-levin@c786769a321e82f49a1914cd3e879fbd81aaab7c
